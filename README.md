@@ -6,7 +6,7 @@ Now, currently you only need 5 climbs with each alignment to win, which is 60 cl
 
 65 total locations, 60 of which are each alignments 5 climbs, and 5 extra for completing a set amount of climbs with every alignment
 
-Each alignment (other than thief and chameleon) starts with their first spell "unlocked" as in, their first spell isn't in the .apworld and you're allowed to use it at the start. This comes out to 55 items as Muggle Has No Spells.
+Each alignment (other than thief and chameleon) starts with their first spell "unlocked" as in, their first spell isn't in the .apworld and you're allowed to use it at the start. This comes out to 55 items as Muggle Has No Spells. (or well 62 including max mana increments)
 Thief also has their place stairs spell unlocked by default and chameleon has nothing unlocked by default.
 
 The alignments Gremlin, None, Necromancer, Reaver, Tutorial, Architect and Splicer all aren't included
