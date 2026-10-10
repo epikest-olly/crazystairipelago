@@ -27,7 +27,9 @@ Should work with the latest manual client, and designed for Crazy Stairs 4.3.1
 
 # Setup
 
-go to releases, download apworld, open file, archipelago should import apworld, download CS_Free_YAML if you DONT own spectre and chameleon, or CS_Paid_YAML if you DO own both, adjust the YAML to your liking, send YAML to host (or put in players folder if you're the host) and then just play like you would with any other manual. (Preventing yourself from using things you dont have unlocked, and checking off locations manually as you do them)
+go to releases, download apworld, open file, archipelago should import apworld,
+download CS_Free_YAML if you DONT own spectre and chameleon, or CS_Paid_YAML if you DO own *both*, then adjust the YAML to your liking, 
+and send YAML to host (or put in players folder if you're the host) and then just play like you would with any other manual when the archipelago starts. (Preventing yourself from using things you dont have unlocked, and checking off locations manually as you do them)
 If you're using CS_Free_Yaml i advise checking off all of spectres and chameleons locations as soon as you begin as they are still included, they just have filler items.
 
 # IM STUPID AND DONT KNOW WHAT A ARCHIPELAGO IS
