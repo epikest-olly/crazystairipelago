@@ -2,11 +2,11 @@
 
 A Manual for [Crazy Stairs](https://www.roblox.com/games/2418401851/Crazy-Stairs-VR)
 
-Now, currently you only need 5 climbs with each alignment to win, which is 60 climbs and each climb is a location, also since i didn't know how to make logic function I just went with "you need X amount of spells with this alignment to complete climb X" 
+Now, currently you only need 5 climbs with each alignment to win, which is 60 climbs (presuming all alignments enabled) and each climb is a location, also since i didn't know how to make logic function I just went with "you need X amount of spells with this alignment to complete climb X" 
 
 65 total locations, 60 of which are each alignments 5 climbs, and 5 extra for completing a set amount of climbs with every alignment
 
-Each alignment (other than thief and chameleon) starts with their first spell "unlocked" as in, their first spell isn't in the .apworld and you're allowed to use it at the start. This comes out to 55 items as Muggle Has No Spells. (or well 62 including max mana increments)
+Each alignment (other than thief and chameleon) starts with their first spell "unlocked" as in, their first spell isn't in the .apworld and you're allowed to use it at the start. This comes out to 55 then muggle throws 3 "energy" items in, and 7 max mana is added to get to 65 items (presuming all alignments)
 Thief also has their place stairs spell unlocked by default and chameleon has nothing unlocked by default.
 
 The alignments Gremlin, None, Necromancer, Reaver, Tutorial, Architect and Splicer all aren't included
@@ -27,10 +27,10 @@ Should work with the latest manual client, and designed for Crazy Stairs 4.3.1
 
 # Setup
 
-go to releases, download apworld, open file, archipelago should import apworld,
-download CS_Free_YAML if you DONT own spectre and chameleon, or CS_Paid_YAML if you DO own *both*, then adjust the YAML to your liking, 
-and send YAML to host (or put in players folder if you're the host) and then just play like you would with any other manual when the archipelago starts. (Preventing yourself from using things you dont have unlocked, and checking off locations manually as you do them)
-If you're using CS_Free_Yaml i advise checking off all of spectres and chameleons locations as soon as you begin as they are still included, they just have filler items.
+go to releases, download apworld, open file, archipelago should import apworld, use the options creator to make a YAML with your preferred settings,
+and send YAML to host (or put in players folder if you're the host) and then just play like you would with any other manual when the archipelago starts. 
+(Preventing yourself from using things you dont have unlocked, and checking off locations manually as you do them)
+
 
 # IM STUPID AND DONT KNOW WHAT A ARCHIPELAGO IS
 
