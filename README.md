@@ -35,3 +35,7 @@ If you're using CS_Free_Yaml i advise checking off all of spectres and chameleon
 # IM STUPID AND DONT KNOW WHAT A ARCHIPELAGO IS
 
 go to [Archipelago](https://github.com/ArchipelagoMW/Archipelago) check the readme there and figure it out
+
+# DISCLAIMER
+This project is in no way affiliated with Sleazel, [Savant Games](https://www.roblox.com/communities/5100942/Savant-Games#!/about), or any other developers of Crazy Stairs. 
+This project was made mainly using the [Manual Builder](https://manualforarchipelago.github.io/ManualBuilder/) then slightly modified to allow YAML customization
