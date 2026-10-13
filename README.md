@@ -31,6 +31,10 @@ go to releases, download apworld, open file, archipelago should import apworld, 
 and send YAML to host (or put in players folder if you're the host) and then just play like you would with any other manual when the archipelago starts. 
 (Preventing yourself from using things you dont have unlocked, and checking off locations manually as you do them)
 
+# DISCLAIMER
+This project is in no way affiliated with Sleazel, [Savant Games](https://www.roblox.com/communities/5100942/Savant-Games#!/about), or any other developers of Crazy Stairs. 
+This project was made mainly using the [Manual Builder](https://manualforarchipelago.github.io/ManualBuilder/) then slightly modified to allow YAML customization
+
 
 # IM STUPID AND DONT KNOW WHAT A ARCHIPELAGO IS
 
