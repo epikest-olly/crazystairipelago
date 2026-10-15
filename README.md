@@ -2,9 +2,9 @@
 
 A Manual for [Crazy Stairs](https://www.roblox.com/games/2418401851/Crazy-Stairs-VR)
 
-Now, currently you only need 5 climbs with each alignment to win, which is 60 climbs (presuming all alignments enabled) and each climb is a location, also since i didn't know how to make logic function I just went with "you need X amount of spells with this alignment to complete climb X" 
+Now, currently you only need 6 climbs with each alignment to win, which is 72 climbs (presuming all alignments enabled) and each climb is a location, also since i didn't know how to make logic function I just went with "you need X amount of spells with this alignment to complete climb X" 
 
-65 total locations, 60 of which are each alignments 5 climbs, and 5 extra for completing a set amount of climbs with every alignment (presuming all alignments)
+78 total locations, 72 of which are each alignments 6 climbs, and 6 extra for completing a set amount of climbs with every alignment (presuming all alignments)
 
 Each alignment (other than thief and chameleon) starts with their first spell "unlocked" as in, their first spell isn't in the .apworld and you're allowed to use it at the start. This comes out to 55 then muggle throws 3 "energy" items in, and 7 max mana is added to get to 65 items (presuming all alignments)
 Thief also has their place stairs spell unlocked by default and chameleon has nothing unlocked by default.
