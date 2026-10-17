@@ -1,0 +1,625 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Reach 1 Climb with Chameleon",
+      "region": "Chameleon",
+      "category": [
+        "Chameleon"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Chameleon",
+      "region": "Chameleon",
+      "category": [
+        "Chameleon"
+      ],
+      "requires": "|Max Mana Increase:1|"
+    },
+    {
+      "name": "Reach 3 Climbs with Chameleon",
+      "region": "Chameleon",
+      "category": [
+        "Chameleon"
+      ],
+      "requires": "|Max Mana Increase:2|"
+    },
+    {
+      "name": "Reach 4 Climbs with Chameleon",
+      "region": "Chameleon",
+      "category": [
+        "Chameleon"
+      ],
+      "requires": "|Max Mana Increase:4|"
+    },
+    {
+      "name": "Reach 5 Climbs with Chameleon",
+      "region": "Chameleon",
+      "category": [
+        "Chameleon"
+      ],
+      "requires": "|Max Mana Increase:6|"
+    },
+    {
+      "name": "Reach 1 Climb with Muggle",
+      "region": "Muggle",
+      "category": [
+        "Muggle"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Muggle",
+      "region": "Muggle",
+      "category": [
+        "Muggle"
+      ],
+      "requires": "|Muggles Energy:1|"
+    },
+    {
+      "name": "Reach 3 Climbs with Muggle",
+      "region": "Muggle",
+      "category": [
+        "Muggle"
+      ],
+      "requires": "|Muggles Energy:2|"
+    },
+    {
+      "name": "Reach 4 Climbs with Muggle",
+      "region": "Muggle",
+      "category": [
+        "Muggle"
+      ],
+      "requires": "|Muggles Energy:3|"
+    },
+    {
+      "name": "Reach 5 Climbs with Muggle",
+      "region": "Muggle",
+      "category": [
+        "Muggle"
+      ],
+      "requires": "|Muggles Energy:3| AND |Max Mana Increase:1|"
+    },
+    {
+      "name": "Reach 1 Climb with Archon",
+      "region": "Archon",
+      "category": [
+        "Archon"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Archon",
+      "region": "Archon",
+      "category": [
+        "Archon"
+      ],
+      "requires": "|@Archon:1|"
+    },
+    {
+      "name": "Reach 3 Climbs with Archon",
+      "region": "Archon",
+      "category": [
+        "Archon"
+      ],
+      "requires": "|@Archon:2|"
+    },
+    {
+      "name": "Reach 4 Climbs with Archon",
+      "region": "Archon",
+      "category": [
+        "Archon"
+      ],
+      "requires": "|@Archon:3|"
+    },
+    {
+      "name": "Reach 5 Climbs with Archon",
+      "region": "Archon",
+      "category": [
+        "Archon"
+      ],
+      "requires": "|@Archon:4|"
+    },
+    {
+      "name": "Reach 1 Climb with Spectre",
+      "region": "Spectre",
+      "category": [
+        "Spectre"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Spectre",
+      "region": "Spectre",
+      "category": [
+        "Spectre"
+      ],
+      "requires": "|@Spectre:1|"
+    },
+    {
+      "name": "Reach 3 Climbs with Spectre",
+      "region": "Spectre",
+      "category": [
+        "Spectre"
+      ],
+      "requires": "|@Spectre:2|"
+    },
+    {
+      "name": "Reach 4 Climbs with Spectre",
+      "region": "Spectre",
+      "category": [
+        "Spectre"
+      ],
+      "requires": "|@Spectre:3|"
+    },
+    {
+      "name": "Reach 5 Climbs with Spectre",
+      "region": "Spectre",
+      "category": [
+        "Spectre"
+      ],
+      "requires": "|@Spectre:4|"
+    },
+    {
+      "name": "Reach 1 Climb with Heretic",
+      "region": "Heretic",
+      "category": [
+        "Heretic"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Heretic",
+      "region": "Heretic",
+      "category": [
+        "Heretic"
+      ],
+      "requires": "|@Heretic:1|"
+    },
+    {
+      "name": "Reach 3 Climbs with Heretic",
+      "region": "Heretic",
+      "category": [
+        "Heretic"
+      ],
+      "requires": "|@Heretic:2|"
+    },
+    {
+      "name": "Reach 4 Climbs with Heretic",
+      "region": "Heretic",
+      "category": [
+        "Heretic"
+      ],
+      "requires": "|@Heretic:3|"
+    },
+    {
+      "name": "Reach 5 Climbs with Heretic",
+      "region": "Heretic",
+      "category": [
+        "Heretic"
+      ],
+      "requires": "|@Heretic:4|"
+    },
+    {
+      "name": "Reach 1 Climb with Hacker",
+      "region": "Hacker",
+      "category": [
+        "Hacker"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Hacker",
+      "region": "Hacker",
+      "category": [
+        "Hacker"
+      ],
+      "requires": "|@Hacker:1|"
+    },
+    {
+      "name": "Reach 3 Climbs with Hacker",
+      "region": "Hacker",
+      "category": [
+        "Hacker"
+      ],
+      "requires": "|@Hacker:2|"
+    },
+    {
+      "name": "Reach 4 Climbs with Hacker",
+      "region": "Hacker",
+      "category": [
+        "Hacker"
+      ],
+      "requires": "|@Hacker:3|"
+    },
+    {
+      "name": "Reach 5 Climbs with Hacker",
+      "region": "Hacker",
+      "category": [
+        "Hacker"
+      ],
+      "requires": "|@Hacker:4|"
+    },
+    {
+      "name": "Reach 1 Climb with Wicked",
+      "region": "Wicked",
+      "category": [
+        "Wicked"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Wicked",
+      "region": "Wicked",
+      "category": [
+        "Wicked"
+      ],
+      "requires": "|@Wicked:1|"
+    },
+    {
+      "name": "Reach 3 Climbs with Wicked",
+      "region": "Wicked",
+      "category": [
+        "Wicked"
+      ],
+      "requires": "|@Wicked:2|"
+    },
+    {
+      "name": "Reach 4 Climbs with Wicked",
+      "region": "Wicked",
+      "category": [
+        "Wicked"
+      ],
+      "requires": "|@Wicked:3|"
+    },
+    {
+      "name": "Reach 5 Climbs with Wicked",
+      "region": "Wicked",
+      "category": [
+        "Wicked"
+      ],
+      "requires": "|@Wicked:4|"
+    },
+    {
+      "name": "Reach 1 Climb with Keeper",
+      "region": "Keeper",
+      "category": [
+        "Keeper"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Keeper",
+      "name": "Reach 2 Climbs with Keeper",
+      "category": [
+        "Keeper"
+      ],
+      "requires": "|@Keeper:1|"
+    },
+    {
+      "region": "Keeper",
+      "name": "Reach 3 Climbs with Keeper",
+      "category": [
+        "Keeper"
+      ],
+      "requires": "|@Keeper:2|"
+    },
+    {
+      "region": "Keeper",
+      "name": "Reach 4 Climbs with Keeper",
+      "category": [
+        "Keeper"
+      ],
+      "requires": "|@Keeper:3|"
+    },
+    {
+      "name": "Reach 5 Climbs with Keeper",
+      "region": "Keeper",
+      "category": [
+        "Keeper"
+      ],
+      "requires": "|@Keeper:4|"
+    },
+    {
+      "name": "Reach 1 Climb with Thief",
+      "region": "Thief",
+      "category": [
+        "Thief"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Thief",
+      "region": "Thief",
+      "category": [
+        "Thief"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 3 Climbs with Thief",
+      "region": "Thief",
+      "category": [
+        "Thief"
+      ],
+      "requires": "|@Thief:1|"
+    },
+    {
+      "name": "Reach 4 Climbs with Thief",
+      "region": "Thief",
+      "category": [
+        "Thief"
+      ],
+      "requires": "|@Thief:2|"
+    },
+    {
+      "name": "Reach 5 Climbs with Thief",
+      "region": "Thief",
+      "category": [
+        "Thief"
+      ],
+      "requires": "|@Thief:3|"
+    },
+    {
+      "name": "Reach 1 Climb with Joker",
+      "region": "Joker",
+      "category": [
+        "Joker"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Joker",
+      "region": "Joker",
+      "category": [
+        "Joker"
+      ],
+      "requires": "|Jokers Flip Above Stairs| OR |Jokers Create Invisible Stairs|"
+    },
+    {
+      "name": "Reach 3 Climbs with Joker",
+      "region": "Joker",
+      "category": [
+        "Joker"
+      ],
+      "requires": "|Jokers Flip Above Stairs| OR |Jokers Create Invisible Stairs|"
+    },
+    {
+      "name": "Reach 4 Climbs with Joker",
+      "region": "Joker",
+      "category": [
+        "Joker"
+      ],
+      "requires": "|Jokers Flip Above Stairs| AND |Jokers Create Invisible Stairs|"
+    },
+    {
+      "name": "Reach 5 Climbs with Joker",
+      "region": "Joker",
+      "category": [
+        "Joker"
+      ],
+      "requires": "|Jokers Flip Above Stairs| AND |Jokers Create Invisible Stairs|"
+    },
+    {
+      "name": "Reach 1 Climb with Drifter",
+      "region": "Drifter",
+      "category": [
+        "Drifter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Drifter",
+      "region": "Drifter",
+      "category": [
+        "Drifter"
+      ],
+      "requires": "|@Drifter:1|"
+    },
+    {
+      "name": "Reach 3 Climbs with Drifter",
+      "region": "Drifter",
+      "category": [
+        "Drifter"
+      ],
+      "requires": "|@Drifter:2|"
+    },
+    {
+      "name": "Reach 4 Climbs with Drifter",
+      "region": "Drifter",
+      "category": [
+        "Drifter"
+      ],
+      "requires": "|@Drifter:3|"
+    },
+    {
+      "name": "Reach 5 Climbs with Drifter",
+      "region": "Drifter",
+      "category": [
+        "Drifter"
+      ],
+      "requires": "|@Drifter:4|"
+    },
+    {
+      "name": "Reach 1 Climb with Patron",
+      "region": "Patron",
+      "category": [
+        "Patron"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Patron",
+      "region": "Patron",
+      "category": [
+        "Patron"
+      ],
+      "requires": "|@Patron:1|"
+    },
+    {
+      "name": "Reach 3 Climbs with Patron",
+      "region": "Patron",
+      "category": [
+        "Patron"
+      ],
+      "requires": "|@Patron:2|"
+    },
+    {
+      "name": "Reach 4 Climbs with Patron",
+      "region": "Patron",
+      "category": [
+        "Patron"
+      ],
+      "requires": "|@Patron:3|"
+    },
+    {
+      "name": "Reach 5 Climbs with Patron",
+      "region": "Patron",
+      "category": [
+        "Patron"
+      ],
+      "requires": "|@Patron:4|"
+    },
+    {
+      "name": "Reach 1 Climb with Every Enabled Alignment (Full Circle)",
+      "category": [
+        "All Alignments"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 2 Climbs with Every Enabled Alignment",
+      "category": [
+        "All Alignments"
+      ],
+      "requires": "{OptAll((|Jokers Flip Above Stairs| OR |Jokers Create Invisible Stairs|) AND |@Patron:1| AND |@Keeper:1| AND |@Spectre:1| AND |@Archon:1| AND |@Wicked:1| AND |@Drifter:1| AND |@Heretic:1| AND |@Hacker:1| AND |Muggles Energy:1|)} AND (|Max Mana Increase:1| OR {YamlDisabled(do_chameleon)})"
+    },
+    {
+      "name": "Reach 3 Climbs with Every Enabled Alignment",
+      "category": [
+        "All Alignments"
+      ],
+      "requires": "{OptAll((|Jokers Flip Above Stairs| OR |Jokers Create Invisible Stairs|) AND |@Patron:2| AND |@Keeper:2| AND |@Spectre:2| AND |@Archon:2| AND |@Wicked:2| AND |@Drifter:2| AND |@Heretic:2| AND |@Hacker:2| AND |@Thief:1| AND |Muggles Energy:2|)} AND (|Max Mana Increase:2| OR {YamlDisabled(do_chameleon)})"
+    },
+    {
+      "name": "Reach 4 Climbs with Every Enabled Alignment",
+      "category": [
+        "All Alignments"
+      ],
+      "requires": "{OptAll((|Jokers Flip Above Stairs| AND |Jokers Create Invisible Stairs|) AND |@Patron:3| AND |@Keeper:3| AND |@Spectre:3| AND |@Archon:3| AND |@Wicked:3| AND |@Drifter:3| AND |@Heretic:3| AND |@Hacker:3| AND |@Thief:2| AND |Muggles Energy:3|)} AND (|Max Mana Increase:4| OR {YamlDisabled(do_chameleon)})"
+    },
+    {
+      "name": "Reach 5 Climbs with Every Enabled Alignment (1/10 of Perfect Circle)",
+      "victory": false,
+      "category": [
+        "All Alignments"
+      ],
+      "requires": "{OptAll((|Jokers Flip Above Stairs| AND |Jokers Create Invisible Stairs|) AND |@Patron:4| AND |@Keeper:4| AND |@Spectre:4| AND |@Archon:4| AND |@Wicked:4| AND |@Drifter:4| AND |@Heretic:4| AND |@Hacker:4| AND |@Thief:3| AND |Muggles Energy:3|)} AND ((|Max Mana Increase:6| OR {YamlDisabled(do_chameleon)}) AND (|Max Mana Increase:1| OR {YamlDisabled(do_muggle)}))"
+    },
+    {
+      "name": "Reach 6 Climbs with Every Enabled Alignment",
+      "victory": true,
+      "category": [
+        "All Alignments"
+      ],
+      "requires": "{OptAll((|Jokers Flip Above Stairs| AND |Jokers Create Invisible Stairs| AND |Max Mana Increase:3|) AND |@Patron:5| AND |@Keeper:5| AND |@Spectre:5| AND |@Archon:5| AND |@Wicked:5| AND |@Drifter:5| AND |@Heretic:5| AND |@Hacker:5| AND |@Thief:4| AND |Muggles Energy:3|)} AND ((|Max Mana Increase:7| OR {YamlDisabled(do_chameleon)}) AND (|Max Mana Increase:2| OR {YamlDisabled(do_muggle)}))"
+    },
+    {
+      "name": "Reach 6 Climbs with Chameleon",
+      "region": "Chameleon",
+      "category": [
+        "Chameleon"
+      ],
+      "requires": "|Max Mana Increase:7|"
+    },
+    {
+      "name": "Reach 6 Climbs with Muggle",
+      "region": "Muggle",
+      "category": [
+        "Muggle"
+      ],
+      "requires": "|Muggles Energy:3| AND |Max Mana Increase:2|"
+    },
+    {
+      "name": "Reach 6 Climbs with Archon",
+      "region": "Archon",
+      "category": [
+        "Archon"
+      ],
+      "requires": "|@Archon:5|"
+    },
+    {
+      "name": "Reach 6 Climbs with Thief",
+      "region": "Thief",
+      "category": [
+        "Thief"
+      ],
+      "requires": "|@Thief:4|"
+    },
+    {
+      "name": "Reach 6 Climbs with Hacker",
+      "region": "Hacker",
+      "category": [
+        "Hacker"
+      ],
+      "requires": "|@Hacker:5|"
+    },
+    {
+      "name": "Reach 6 Climbs with Wicked",
+      "region": "Wicked",
+      "category": [
+        "Wicked"
+      ],
+      "requires": "|@Wicked:5|"
+    },
+    {
+      "region": "Keeper",
+      "name": "Reach 6 Climbs with Keeper",
+      "category": [
+        "Keeper"
+      ],
+      "requires": "|@Keeper:5|"
+    },
+    {
+      "name": "Reach 6 Climbs with Joker",
+      "region": "Joker",
+      "category": [
+        "Joker"
+      ],
+      "requires": "|Jokers Flip Above Stairs| AND |Jokers Create Invisible Stairs| AND |Max Mana Increase:3|"
+    },
+    {
+      "name": "Reach 6 Climbs with Drifter",
+      "region": "Drifter",
+      "category": [
+        "Drifter"
+      ],
+      "requires": "|@Drifter:5|"
+    },
+    {
+      "name": "Reach 6 Climbs with Patron",
+      "region": "Patron",
+      "category": [
+        "Patron"
+      ],
+      "requires": "|@Patron:5|"
+    },
+    {
+      "name": "Reach 6 Climbs with Heretic",
+      "region": "Heretic",
+      "category": [
+        "Heretic"
+      ],
+      "requires": "|@Heretic:5|"
+    },
+    {
+      "name": "Reach 6 Climbs with Spectre",
+      "region": "Spectre",
+      "category": [
+        "Spectre"
+      ],
+      "requires": "|@Spectre:5|"
+    }
+  ]
+}

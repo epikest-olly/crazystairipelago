@@ -1,0 +1,461 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Archons Create Rotated Gate",
+      "category": [
+        "Archon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Archons Create Up Gate",
+      "category": [
+        "Archon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Archons Destroy Gate",
+      "category": [
+        "Archon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Archons Create Platform Gate",
+      "category": [
+        "Archon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Archons Create Random Gate",
+      "category": [
+        "Archon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spectres Ghostify Above Stairs",
+      "category": [
+        "Spectre"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spectres Ghostify Stairs",
+      "category": [
+        "Spectre"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spectres Horizontal Teleport",
+      "category": [
+        "Spectre"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spectres Random Teleport",
+      "category": [
+        "Spectre"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spectres Vertical Teleport",
+      "category": [
+        "Spectre"
+      ],
+      "progression": true
+    },
+    {
+      "count": "7",
+      "name": "Max Mana Increase",
+      "category": [
+        "All Alignments"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Thiefs Steal Above Stairs",
+      "category": [
+        "Thief"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Thiefs Spiral Staircase",
+      "category": [
+        "Thief"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Thiefs Create Bypass",
+      "category": [
+        "Thief"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Thiefs Ditch Stairs",
+      "category": [
+        "Thief"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Heretics Curse Stairs",
+      "category": [
+        "Heretic"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Heretics Curse Above Stairs",
+      "category": [
+        "Heretic"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Heretics Flicker",
+      "category": [
+        "Heretic"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Heretics Raise Schism",
+      "category": [
+        "Heretic"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Heretics Schism Opposite Down",
+      "category": [
+        "Heretic"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hackers Blink",
+      "category": [
+        "Hacker"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hackers Swap",
+      "category": [
+        "Hacker"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hackers Escalator",
+      "category": [
+        "Hacker"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hackers Hack In Stairs",
+      "category": [
+        "Hacker"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hackers Glitch Stairs",
+      "category": [
+        "Hacker"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wickeds Destroy Above Stairs",
+      "category": [
+        "Wicked"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wickeds Bend Stairs Up",
+      "category": [
+        "Wicked"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wickeds Damage Above Stairs",
+      "category": [
+        "Wicked"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wickeds Bend Opposite Stairs Down",
+      "category": [
+        "Wicked"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wickeds Create Wall",
+      "category": [
+        "Wicked"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Keepers Rotate Stairs",
+      "category": [
+        "Keeper"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Keepers Restore Stairs",
+      "category": [
+        "Keeper"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Keepers Move Stairs Up",
+      "category": [
+        "Keeper"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Keepers Random Move",
+      "category": [
+        "Keeper"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Keepers Random Above Move",
+      "category": [
+        "Keeper"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jokers Flip Above Stairs",
+      "category": [
+        "Joker"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jokers Create Fake Stairs",
+      "category": [
+        "Joker"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Jokers Disco Stairs",
+      "category": [
+        "Joker"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Jokers Create Trap",
+      "category": [
+        "Joker"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Jokers Create Invisible Stairs",
+      "category": [
+        "Joker"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Drifters Elevator",
+      "category": [
+        "Drifter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Drifters Diagonal Drift",
+      "category": [
+        "Drifter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Drifters Spin Stairs",
+      "category": [
+        "Drifter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Drifters Random Drift",
+      "category": [
+        "Drifter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Drifters Lift Above Stairs",
+      "category": [
+        "Drifter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Patrons Call The Orb",
+      "category": [
+        "Patron"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Patrons Rebuild Opposite",
+      "category": [
+        "Patron"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Patrons Shrink Above Stairs",
+      "category": [
+        "Patron"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Patrons Create Link",
+      "category": [
+        "Patron"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Patrons Create Portal",
+      "category": [
+        "Patron"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chameleons Move Stairs Down",
+      "category": [
+        "Chameleon"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Chameleons One Way Stairs",
+      "category": [
+        "Chameleon"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Chameleons Cross Stairs",
+      "category": [
+        "Chameleon"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Chameleons Below Drawbridge",
+      "category": [
+        "Chameleon"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Chameleons Above Drawbridge",
+      "category": [
+        "Chameleon"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Chameleons Warp Stairs",
+      "category": [
+        "Chameleon"
+      ],
+      "filler": true
+    },
+    {
+      "count": "3",
+      "name": "Muggles Energy",
+      "category": [
+        "Muggle"
+      ],
+      "progression": true
+    }
+  ]
+}

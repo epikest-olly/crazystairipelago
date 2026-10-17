@@ -1,0 +1,11 @@
+{
+    "Muggle": {
+        "yaml_option": ["do_muggle"]
+    },
+    "Chameleon": {
+        "yaml_option": ["do_chameleon"]
+    },
+    "Spectre": {
+        "yaml_option": ["do_spectre"]
+    }
+}

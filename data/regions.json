@@ -1,0 +1,64 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Muggle": {
+    "starting": true,
+    "connects_to": [
+      "Heretic",
+      "Spectre",
+      "Archon",
+      "Thief",
+      "Chameleon",
+      "Hacker",
+      "Wicked",
+      "Keeper",
+      "Joker",
+      "Drifter",
+      "Patron"
+    ],
+    "requires": ""
+  },
+  "Heretic": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Spectre": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Archon": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Thief": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Chameleon": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Hacker": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Wicked": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Keeper": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Joker": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Drifter": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Patron": {
+    "connects_to": [],
+    "requires": ""
+  }
+}
