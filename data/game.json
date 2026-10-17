@@ -1,6 +1,6 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "StairsipelagoBeta",
+  "game": "CrazyStairsBeta",
   "creator": "Epikest",
   "filler_item_name": "None's Nothing",
   "starting_items": []
